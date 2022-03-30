@@ -1,0 +1,6 @@
+# QA_form
+QAフォーム作成します
+問い合わせform引用:たにぐちまことのともすたチャンネル様より
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FaVGRtZTUxQlNJWTNmdVo0cHdDOGxaVkxlUXxBQ3Jtc0treFBCWUFVbFR4N2ZtQW02Tm1lclNBU19OWWhwbXRLRklyWG4ydGlDQlhYd2d2dXlRVWJiRVN4Rl9YUmFYV3VnQ1FIaEZOaHVhTEd3N3pzSlBmeWJPT19XbWJRbklTbU1FZXZCVERXVmZxOU1IeXNaMA&q=https%3A%2F%2Fgithub.com%2Ftomostajp%2Fphp-mailform-sample
+
+機能面では動画を参考にオリジナルを作成します
